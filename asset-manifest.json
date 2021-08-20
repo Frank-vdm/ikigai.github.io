@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Frank-vdm.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Frank-vdm.github.io/static/js/main.87e1e5ef.chunk.js",
+    "main.js.map": "/Frank-vdm.github.io/static/js/main.87e1e5ef.chunk.js.map",
+    "runtime-main.js": "/Frank-vdm.github.io/static/js/runtime-main.2086264e.js",
+    "runtime-main.js.map": "/Frank-vdm.github.io/static/js/runtime-main.2086264e.js.map",
+    "static/js/2.5b67441a.chunk.js": "/Frank-vdm.github.io/static/js/2.5b67441a.chunk.js",
+    "static/js/2.5b67441a.chunk.js.map": "/Frank-vdm.github.io/static/js/2.5b67441a.chunk.js.map",
+    "static/js/3.1b64c98a.chunk.js": "/Frank-vdm.github.io/static/js/3.1b64c98a.chunk.js",
+    "static/js/3.1b64c98a.chunk.js.map": "/Frank-vdm.github.io/static/js/3.1b64c98a.chunk.js.map",
+    "index.html": "/Frank-vdm.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Frank-vdm.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.5b67441a.chunk.js.LICENSE.txt": "/Frank-vdm.github.io/static/js/2.5b67441a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Frank-vdm.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2086264e.js",
+    "static/js/2.5b67441a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.87e1e5ef.chunk.js"
+  ]
+}
