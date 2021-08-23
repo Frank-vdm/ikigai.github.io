@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/Frank-vdm.github.io/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/Frank-vdm.github.io/static/js/main.87e1e5ef.chunk.js",
-    "main.js.map": "/Frank-vdm.github.io/static/js/main.87e1e5ef.chunk.js.map",
-    "runtime-main.js": "/Frank-vdm.github.io/static/js/runtime-main.2086264e.js",
-    "runtime-main.js.map": "/Frank-vdm.github.io/static/js/runtime-main.2086264e.js.map",
-    "static/js/2.5b67441a.chunk.js": "/Frank-vdm.github.io/static/js/2.5b67441a.chunk.js",
-    "static/js/2.5b67441a.chunk.js.map": "/Frank-vdm.github.io/static/js/2.5b67441a.chunk.js.map",
-    "static/js/3.1b64c98a.chunk.js": "/Frank-vdm.github.io/static/js/3.1b64c98a.chunk.js",
-    "static/js/3.1b64c98a.chunk.js.map": "/Frank-vdm.github.io/static/js/3.1b64c98a.chunk.js.map",
+    "main.css": "/Frank-vdm.github.io/static/css/main.d86487ee.chunk.css",
+    "main.js": "/Frank-vdm.github.io/static/js/main.be82c0bf.chunk.js",
+    "main.js.map": "/Frank-vdm.github.io/static/js/main.be82c0bf.chunk.js.map",
+    "runtime-main.js": "/Frank-vdm.github.io/static/js/runtime-main.5e750ce0.js",
+    "runtime-main.js.map": "/Frank-vdm.github.io/static/js/runtime-main.5e750ce0.js.map",
+    "static/css/2.bb0da62a.chunk.css": "/Frank-vdm.github.io/static/css/2.bb0da62a.chunk.css",
+    "static/js/2.8cf09db1.chunk.js": "/Frank-vdm.github.io/static/js/2.8cf09db1.chunk.js",
+    "static/js/2.8cf09db1.chunk.js.map": "/Frank-vdm.github.io/static/js/2.8cf09db1.chunk.js.map",
+    "static/js/3.2f2e5879.chunk.js": "/Frank-vdm.github.io/static/js/3.2f2e5879.chunk.js",
+    "static/js/3.2f2e5879.chunk.js.map": "/Frank-vdm.github.io/static/js/3.2f2e5879.chunk.js.map",
     "index.html": "/Frank-vdm.github.io/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/Frank-vdm.github.io/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.5b67441a.chunk.js.LICENSE.txt": "/Frank-vdm.github.io/static/js/2.5b67441a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Frank-vdm.github.io/static/media/logo.6ce24c58.svg"
+    "static/css/2.bb0da62a.chunk.css.map": "/Frank-vdm.github.io/static/css/2.bb0da62a.chunk.css.map",
+    "static/css/main.d86487ee.chunk.css.map": "/Frank-vdm.github.io/static/css/main.d86487ee.chunk.css.map",
+    "static/js/2.8cf09db1.chunk.js.LICENSE.txt": "/Frank-vdm.github.io/static/js/2.8cf09db1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Frank-vdm.github.io/static/media/SF-Pro-Display-Regular.14cc6426.otf",
+    "static/media/computer.c6365721.jpg": "/Frank-vdm.github.io/static/media/computer.c6365721.jpg",
+    "static/media/profile.95f6187e.jpg": "/Frank-vdm.github.io/static/media/profile.95f6187e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2086264e.js",
-    "static/js/2.5b67441a.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.87e1e5ef.chunk.js"
+    "static/js/runtime-main.5e750ce0.js",
+    "static/css/2.bb0da62a.chunk.css",
+    "static/js/2.8cf09db1.chunk.js",
+    "static/css/main.d86487ee.chunk.css",
+    "static/js/main.be82c0bf.chunk.js"
   ]
 }
