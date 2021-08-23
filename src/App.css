@@ -1,5 +1,33 @@
 .App {
   text-align: center;
+  background-color: #282c34;
+}
+
+.App-banner {
+  width: 100%;
+  /* height: 30vh; */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 1.5%;
+}
+
+.App-body {
+  width: 100%;
+  height: calc(100vh - 1.5% - 1.5%);
+  font-size: calc(10px + 1.2vmin);
+  font-family: SF Pro Display;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-left: 2%;
+}
+
+.App-name {
+  font-family: SF Pro Display;
+  color: white;
 }
 
 .App-logo {
@@ -14,7 +42,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #282c3433;
   min-height: 100vh;
   display: flex;
   flex-direction: column;

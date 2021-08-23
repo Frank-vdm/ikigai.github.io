@@ -1,26 +1,35 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+// import { Logo } from './Assets/Logo'
+import 'antd/dist/antd.css'
+import './App.css'
+import background from './Assets/computer.jpg'
+import profile from './Assets/profile.jpg'
+import Avatar from 'antd/lib/avatar/avatar'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+      <div
+        className="App-banner"
+        style={{
+          backgroundImage: `url(${background})`,
+          backgroundSize: 'cover',
+          backgroundRepeat: 'no-repeat',
+          width: '100%',
+        }}
+      >
+        <Avatar size={200} src={profile} />
+      </div>
+      <header className="App-body">
+        <h2 className="App-name">François van der Merwe</h2>
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          lets see what we can do together. Im a software developer with skills in everything from ReactJs, Node to
+          Swift and Objective C
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
+      <header className="App-header"></header>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
